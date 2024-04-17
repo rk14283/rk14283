@@ -1,7 +1,7 @@
 # Hi there, I'm Rohan Sanjeev Kale
 
 - 🎓 I graduated with a Masters(MSc.) from VU Amsterdam in Neuroscience
-- 💻 I am a self taught developer
+- 💻 I am a self taught developer, doing freelance web development mainly with JavaScript
 
 
 Languages
