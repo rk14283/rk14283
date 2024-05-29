@@ -9,7 +9,9 @@ Languages
 - HTML & CSS
 - JavaScript & Node.js
 - Python 
-- SQL 
+- SQL
+- React
+- NextJS
 
 Some libraries I am working with
 
