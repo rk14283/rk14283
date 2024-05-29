@@ -12,6 +12,7 @@ Languages
 - SQL
 - React
 - NextJS
+- HTMX
 
 Some libraries I am working with
 
